@@ -7,7 +7,7 @@
 <title>NullPointerException</title>
 </head>
 <body>
-	<h1>Error handling method for all Exception</h1>
+	<h1>Error handling method for all Exception1</h1>
 	<h3>
 		<p>Application has encountered a <font color="red"><i>Exception</i></font> error. Please Contact
 		support by sending email at robiehilario26@yahoo.com</p>
